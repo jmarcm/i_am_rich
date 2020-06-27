@@ -8,6 +8,7 @@ void main() {
           title: Text("Hello World"),
           backgroundColor: Colors.blueGrey[900],
         ),
+        backgroundColor: Colors.blueGrey,
       ),
     ),
   );
