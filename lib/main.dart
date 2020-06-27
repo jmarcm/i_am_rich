@@ -6,6 +6,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text("Hello World"),
+          backgroundColor: Colors.blueGrey[900],
         ),
       ),
     ),
